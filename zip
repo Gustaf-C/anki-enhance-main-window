@@ -1,0 +1,11 @@
+#!/bin/bash
+
+rm -rf build
+
+cp -r src/enhance_main_window temp
+rm  temp/meta.json
+rm -rf temp/__pycache__
+zip -r -j enhanced-main-window.ankiaddon temp
+mkdir build
+mv enhanced-main-window.ankiaddon build
+rm -rf temp

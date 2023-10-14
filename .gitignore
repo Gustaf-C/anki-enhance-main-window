@@ -103,7 +103,8 @@ i
 /enhanced_main.py~
 /enhancedMain.py~
 *~
-/meta.json
-*zip
+meta.json
 *#
 /config.gui
+
+.DS_Store
