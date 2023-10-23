@@ -1,5 +1,3 @@
-import sys
-
 from aqt import mw
 
 userOption = None

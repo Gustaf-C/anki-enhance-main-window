@@ -1,7 +1,5 @@
 import os
 
-from anki.lang import _
-
 from .config import getUserOption
 
 __location__ = os.path.realpath(

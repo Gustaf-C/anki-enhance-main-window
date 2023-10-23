@@ -1,4 +1,3 @@
-from anki.lang import _
 from aqt.deckbrowser import DeckBrowser
 from aqt.qt import *
 from aqt.utils import askUser

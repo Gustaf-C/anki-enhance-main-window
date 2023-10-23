@@ -1,4 +1,3 @@
-from anki.lang import _
 from anki.stats import *
 
 from .config import getUserOption
